@@ -1,0 +1,22 @@
+using System;
+using system.text;
+
+namespace lista_repeticoes
+{
+
+ class MainClass 
+ {
+   static void Main (string[] args) 
+   {
+     Console.WriteLine ("Diretoria Escola Msgm p/ 10 alunos");
+     //declaracao do array
+     string[] palavras = {"nome1","nome2", "nome3", "nome4"}
+     //repeticao -foreach-
+     foreach(string nome in palavras)
+     {
+        Console.WriteLine(nome);
+     }
+     Console.WriteLine("Fim do ForEach");
+   }  
+  }
+}
