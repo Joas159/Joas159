@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joas159
-- 👀 I’m interested in C# for now...
-- 🌱 I’m currently learning through an online course i bought a month ago.
+- 👀 I’m a FullStack Web Developer Always Learning;
+- 🌱 I’m currently studying at CubosAcademy Institute
 - 💞️ I’m looking to collaborate on people starting coding learning;
 - 📫 How to reach me: my email address-->> joassousaesilva@gmail.com
 
