@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Joas159
 - 👀 I’m a FullStack Web Developer Always Learning;
-- 🌱 I’m currently studying at CubosAcademy Institute
-- 💞️ I’m looking to collaborate on people starting coding learning;
-- 📫 How to reach me: my email address-->> joassousaesilva@gmail.com
+- 🌱 I’m currently finishing my course at CubosAcademy Institute
+- 💞️ I’m looking to the first opportunity working as a Developer;
+- 📫 How to reach me: my email address-->> joassousaesilva@gmail.com || 61-9-9838-7793 ||
 
 <!---
 Joas159/Joas159 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
